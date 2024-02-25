@@ -14,7 +14,14 @@
 }
 
 .button-prop-educ{
-    width: 100px;
+    width: 150px;
     margin: auto;
     margin-top: 10px;
+    border-radius: 20px;
+    color: aliceblue;
+    font-weight: 600;
+}
+.verMas{
+    color: aliceblue;
+    text-decoration: none;
 }
