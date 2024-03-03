@@ -2,7 +2,9 @@
     min-height: 300px;
 }
 
-
+a {
+    text-decoration: none;
+}
 .navbar-brand {
     display: flex;
     align-items: center;
@@ -12,6 +14,7 @@
     max-width: 100%;
     height: auto;
 }
+
 
 .button-prop-educ{
     width: 150px;
