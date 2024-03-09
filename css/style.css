@@ -44,3 +44,11 @@ a {
     object-fit: cover;
     border-radius: 15px;
 }
+
+.footer {
+    background-color: #0e2b49;
+    padding: 20px 0;
+    text-align: center;
+    color: aliceblue;
+}
+
